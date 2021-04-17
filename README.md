@@ -1,7 +1,8 @@
 # Detection of Cardiovascular disease
-
-<img width="200" alt="cardiovascular disease" src="https://user-images.githubusercontent.com/29495885/115125597-ea21d880-9fd1-11eb-9ba6-e142ef38d235.png">
-
+<figure>
+  <img width="250"  alt="cardiovascular disease" src="https://user-images.githubusercontent.com/29495885/115125597-ea21d880-9fd1-11eb-9ba6-e142ef38d235.png">
+  <figcaption>journal of clinical pathways</figcaption>
+</figure>
 
 Cardiovascular disease (CVD) is a family of disorders that includes coronary heart, cerebrovascular disease, peripheral
 arterial disease, and congenital heart disease. Each four out of 5 CVD cases are died due to heart attacks and strokes,
