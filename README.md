@@ -22,6 +22,8 @@ The datasets dataset collected by Kaggle from three different resources such as 
   - Decision Tree Classifier (DT)
   - Logistic Regression (LR)
   - K-Nearest neighbor (KNN)
+  - Naïve Bayes (NB)
+
 
 # Evaluation metrics: 
   - Accuracy 
