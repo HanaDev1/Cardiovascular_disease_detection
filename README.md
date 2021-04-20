@@ -14,7 +14,7 @@ The datasets dataset collected by Kaggle from three different resources such as 
 
   - Cardiovascular disease dataset 
     https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
-   - Heart Disease Dataset UCI 
+   - Heart Disease Dataset UCI https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 # Classification models 
   - Artificial Neural Network ANN
